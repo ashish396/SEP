@@ -1,0 +1,9 @@
+on_date,holiday_others,class_name,holiday
+1970-01-01,holiday_others,class_name,holiday
+2018-01-09,holiday,1," holiday"
+2018-02-09,holiday_others,class_name," holiday"
+2018-03-09,holiday_others,class_name," holiday"
+2018-04-09,"Cricket Event",1," holiday"
+1970-01-01,,,
+1970-01-01,,,
+1970-01-01,,,
